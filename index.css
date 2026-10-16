@@ -1,0 +1,84 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+   background-color: blueviolet;
+}
+
+.caja1 {
+    background-color: red;
+    height: 100px;
+}
+
+.caja2 {
+    background-color: blue;
+    height: 100px;
+}
+
+.caja3 {
+    background-color: green;
+    height: 100px;
+}
+
+.caja4 {
+    background-color: yellow;
+    height: 100px;
+}
+
+.caja5 {
+    background-color: orange;
+    height: 100px;
+}
+
+.caja6 {
+    background-color: purple;
+    height: 100px;
+}
+
+.caja7 {
+    background-color: pink;
+    height: 100px;
+}
+
+.caja8 {
+    background-color: cyan;
+    height: 100px;
+}
+
+.caja9 {
+    background-color: brown;
+    height: 100px;
+}
+
+.caja10 {
+    background-color: gray;
+    height: 100px;
+}
+
+.caja11 {
+    background-color: lime;
+    height: 100px;
+}
+
+.caja12 {
+    background-color: coral;
+    height: 100px;
+}
+
+.caja13 {
+    background-color: gold;
+    height: 100px;
+}
+.caja14 {
+    background-color: rgb(246, 90, 47);
+    height: 100px;
+}
+.caja15 {
+    background-color: rgb(88, 138, 255);
+    height: 100px;
+}
+.caja16 {
+    background-color: rgb(233, 137, 255);
+    height: 100px;
+}
