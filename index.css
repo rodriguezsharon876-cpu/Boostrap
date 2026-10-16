@@ -8,12 +8,12 @@ body{
 
 .caja1 {
     background-color: red;
-    height: 100px;
+    height: 50px;
 }
 
 .caja2 {
     background-color: blue;
-    height: 100px;
+    height: 300px;
 }
 
 .caja3 {
@@ -68,17 +68,5 @@ body{
 
 .caja13 {
     background-color: gold;
-    height: 100px;
-}
-.caja14 {
-    background-color: rgb(246, 90, 47);
-    height: 100px;
-}
-.caja15 {
-    background-color: rgb(88, 138, 255);
-    height: 100px;
-}
-.caja16 {
-    background-color: rgb(233, 137, 255);
     height: 100px;
 }
